@@ -29,7 +29,7 @@ dependencies:
   - chardet=3.0.4=py36_1
   - click=7.0=py36_0
   - cloudpickle=1.1.1=py_0
-  - conda==4.5.12=py36_0
+  - conda==4.6.11=py36_0
   - conda-env=2.6.0=0
   - configparser=3.7.4=py36_0
   - coverage=4.5.3=py36h7b6447c_0
@@ -188,7 +188,7 @@ dependencies:
   - readline=7.0=h7b6447c_5
   - redis=5.0.3=h7b6447c_0
   - redis-py=2.10.5=py36_0
-  - requests=2.13.0=py36_0
+  - requests=2.22.0=py36_0
   - rmm=0.7.0=cuda10.1_py36_485.g408a3b2
   - ruamel_yaml=0.15.46=py36h14c3975_0
   - scikit-image=0.14.1=py36he6710b0_0
