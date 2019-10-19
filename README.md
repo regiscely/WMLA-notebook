@@ -2,7 +2,7 @@
 
 Create an Anaconda environment.
 
-   * Navigate to WorkloadSparkAnaconda Management. If Anaconda3-2018-12-Linux-ppc64le is not listed, download it from this location: https://repo.continuum.io/archive/Anaconda3-2018.12-Linux-ppc64le.sh, then click Add and upload it.
+   * Navigate to Workload -> Spark -> Anaconda Management. If Anaconda3-2018-12-Linux-ppc64le is not listed, download it from this location: https://repo.continuum.io/archive/Anaconda3-2018.12-Linux-ppc64le.sh, then click Add and upload it.
    * Select Anaconda3-2018-12-Linux-ppc64le from the Anaconda Management page. Click Deploy.
    * Specify a name, for example, myAnaconda, and a deployment directory, such as /home/egoadmin/myAnaconda, for the Anaconda distribution.
    * Select the Environment Variables tab. Click Add Variable and add the following variables:
