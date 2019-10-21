@@ -10,7 +10,7 @@
    * Click Add Variable and add the following variables:<br>
     IBM_POWERAI_LICENSE_ACCEPT=yes <br>
     PATH=$PATH:/usr/bin <br>
-   
+    
     <img src="anaconda_variables.PNG" width="550" height="230">
   
    * In the Conda environments, click add
