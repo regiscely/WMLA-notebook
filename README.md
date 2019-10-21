@@ -44,7 +44,7 @@
    * During Instance group deployment, click <b>"Notebooks"</b> tab 
    * Click <b>"Create Notebooks for User"</b> button
    * Select from users list, your current user id
-   * Click <b>"Overview"<b> tab, a click <b>"start"<b> button to start your SIG
+   * Click <b>"Overview"<b> tab, a click <b>"start"</b> button to start your SIG
   
  ## import notebook to compile cupy
    * Navigate to workload -> Spark -> My application and notebooks
