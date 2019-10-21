@@ -36,3 +36,5 @@
         
         <b>Resource Groups and Plans</b><br>
           <i>select appriopriate resource groups</i>
+        <br>  
+        Click <b><i>Create and deploy Instance Group</i></b> 
