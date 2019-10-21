@@ -21,17 +21,17 @@
 
    * Navigate to workload -> Spark -> Spark instance Group
    * Click "New" to create a new Spark Instance Group  
-        <b>Required Fields</b>
-        Instance group name: jupyter <br>
-        Spark deployment directory: /var/conductor/jupyter <br>
-        Execution user for instance group: egoadmin <br>
-        Spark version: Spark 2.3.1 <br>
-        Enable notebooks: Select Jupyter 5.4.0 <br>
-             Anaconda distribution instance: anaconda201903 <br>
-             Conda environment: powerai161 <br>
+        <b>Required Fields</b><br>
+        Instance group name: <i><b>jupyter</b></i> <br>
+        Spark deployment directory: <i><b>/var/conductor/jupyter</b></i> <br>
+        Execution user for instance group: <i><b>egoadmin</b></i> <br>
+        Spark version: <i><b>Spark 2.3.1 </b></i><br>
+        Enable notebooks: Select <i><b>Jupyter 5.4.0 </b></i><br>
+             Anaconda distribution instance: <i><b>anaconda201903</b></i> <br>
+             Conda environment: <i><b>powerai161</b></i> <br>
         
         <b>Consumers</b><br>
-        Security:<br>
+        Security:
              <i>leave default values</i>
         
         <b>Resource Groups and Plans</b><br>
