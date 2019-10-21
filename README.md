@@ -50,5 +50,5 @@
    * Navigate to workload -> Spark -> My application and notebooks
    * Select "Open Notebook" button (top right of the screen)
    * Select the notebook you created in previous steps and click <b>"open"</b>
-   * import <b><i>compile_cupy.ipynb</i></b> and execute all cells
+   * Upload <b><i>compile_cupy.ipynb</i></b> jupyter notebook and execute all cells
   
