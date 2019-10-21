@@ -10,9 +10,9 @@
    * Click Add Variable and add the following variables:<br>
     IBM_POWERAI_LICENSE_ACCEPT=yes <br>
     PATH=$PATH:/usr/bin <br>
-    
+    <p align="center">
     <img src="https://github.com/regiscely/WMLA-notebook/blob/master/anaconda_variables.PNG" width="550" height="230">
-  
+    </p>
    * In the Conda environments, click add
    * Select Create environment from a yaml file, click Browse, then select the powerai_1.6.1_anaconda2019.03.yml file and click Add.
    This creates a powerai161 conda environment with WML CE components installed and extra packages (nvcc, jupyter) in the environment. 
