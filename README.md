@@ -30,9 +30,9 @@
              Anaconda distribution instance: anaconda201903 <br>
              Conda environment: powerai161 <br>
         
-        <b>Consumers</b>
-        Security:
+        <b>Consumers</b><br>
+        Security:<br>
              <i>leave default values</i>
         
-        <b>Resource Groups and Plans</b>
+        <b>Resource Groups and Plans</b><br>
           <i>select appriopriate resource groups</i>
