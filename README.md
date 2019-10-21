@@ -29,10 +29,10 @@
         Enable notebooks: Select Jupyter 5.4.0 <br>
              Anaconda distribution instance: anaconda201903 <br>
              Conda environment: powerai161 <br>
-        <hr>
+        
         <b>Consumers</b>
         Security:
-             <leave default>
-        <hr>
+             <i>leave default values</i>
+        
         <b>Resource Groups and Plans</b>
-          <select appriopriate resource groups>
+          <i>select appriopriate resource groups</i>
