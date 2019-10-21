@@ -7,8 +7,8 @@
    * Specify a name, for example, anaconda201903, and a deployment directory, such as /home/egoadmin/anaconda201903, for the Anaconda distribution.
    * Click Deploy, then click Continue to Anaconda Distribution Instance.<br>
    When anaconda environment is ready, click on Manage -> Configure (top right of the screen)
-   * Click Add Variable and add the following variables:
-    IBM_POWERAI_LICENSE_ACCEPT=yes<br>
+   * Click Add Variable and add the following variables:<br>
+    IBM_POWERAI_LICENSE_ACCEPT=yes <br>
     PATH=$PATH:/usr/bin <br>
     ![](anaconda_variables.PNG)
   
