@@ -9,8 +9,8 @@
    When anaconda environment is ready, click on Manage -> Configure (top right of the screen)
    * Click Add Variable and add the following variables:
     IBM_POWERAI_LICENSE_ACCEPT=yes<br>
-    PATH=$PATH:/usr/bin 
-    ! [] (anaconda_variables.PNG)
+    PATH=$PATH:/usr/bin <br>
+    ![](anaconda_variables.PNG)
   
    * In the Conda environments, click add
    * Select Create environment from a yaml file, click Browse, then select the powerai_1.6.1_anaconda2019.03.yml file and click Add.
